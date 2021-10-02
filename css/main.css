@@ -152,7 +152,7 @@ header nav ul li a {
 
 /* banner start */
 .banner {
-  background-image: url(/banner-bg.jpg);
+  background-image: url(./banner-bg.jpg);
   height: 80vh;
   background-size: cover;
   display: flex;
@@ -591,7 +591,7 @@ header nav ul li a {
 }
 /* sign-up  */
 .sign-up {
-  background-image: url(/signup-bg.jpg);
+  background-image: url(./signup-bg.jpg);
   /* height: 40vh; */
   background-repeat: no-repeat;
   background-size: cover;
